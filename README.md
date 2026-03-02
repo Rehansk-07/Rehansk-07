@@ -21,8 +21,8 @@ Aspiring Java Full Stack Developer | Java • Spring • React • SQL
 <!-- ===================== BADGES ===================== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=&label=Profile%20Views&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/followers/Rehansk-07?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/Rehansk-07?style=for-the-badge&logo=github" />
 </p>
 
 <img align="right" width="420" src="https://raw.githubusercontent.com/Aman96-star/Aman96-star/main/transparent_gitgif.gif" />
@@ -78,9 +78,7 @@ Aspiring Java Full Stack Developer | Java • Spring • React • SQL
 <p align="center">
   <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=Rehansk-07&theme=nord&hide_border=false" alt="GitHub Streak Stats">
    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-  <img width="398"
-       src="https://leetcard.jacoblin.cool/vaishnavvikrant167?theme=nord&font=JetBrains%20Mono&ext=contest"/>
-
+ 
 </p>
 
 
@@ -100,4 +98,4 @@ Aspiring Java Full Stack Developer | Java • Spring • React • SQL
   <img src="https://raw.githubusercontent.com/JoshuaThadi/Wall-E-Desk/main/Pixel-Art-2/green.gif"/>
 </p>
 
-<p align="center"><strong>⚠️ README uniquely crafted for Vikrant Vaishnav</strong></p>
+<p align="center"><strong>⚠️ README uniquely crafted for Mohammad Rehan</strong></p>
