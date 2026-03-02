@@ -4,7 +4,7 @@
 </p>
 
 <!-- ===================== INTRO ===================== -->
-<h1 align="center">❂ Vikrant Vaishnav</h1>
+<h1 align="center">❂ Mohammad Rehan</h1>
 
 <h3 align="center">
 Aspiring Java Full Stack Developer | Java • Spring • React • SQL
@@ -12,17 +12,17 @@ Aspiring Java Full Stack Developer | Java • Spring • React • SQL
 
 <p align="center">
 📍 Hyderabad, India &nbsp;|&nbsp;
-📧 <a href="mailto:vaishnavvikrant167@gmail.com">Email</a> &nbsp;|&nbsp;
-💼 <a href="https://www.linkedin.com/in/vikrant-vaishnav" target="_blank">LinkedIn</a>
+📧 <a href="mailto:skrehansk2003@gmail.com">Email</a> &nbsp;|&nbsp;
+💼 <a href="https://www.linkedin.com/in/rehan-shaikh-9ab190317/" target="_blank">LinkedIn</a>
 </p>
 
 ---
 
 <!-- ===================== BADGES ===================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikrantvaishnav&label=Profile%20Views&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/vikrantvaishnav?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/vikrantvaishnav?style=for-the-badge&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=&label=Profile%20Views&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/style=for-the-badge&logo=github" />
 </p>
 
 <img align="right" width="420" src="https://raw.githubusercontent.com/Aman96-star/Aman96-star/main/transparent_gitgif.gif" />
@@ -31,7 +31,7 @@ Aspiring Java Full Stack Developer | Java • Spring • React • SQL
 
 ## 💫 About Me
 
-- 🎓 **B.Tech in Computer Science** (CGPA: 8.1)
+- 🎓 **BSc in Computer Science** 
 - 💻 **Aspiring Java Developer** with strong Core Java & OOP knowledge
 - 🏗️ Building **full-stack applications** using Java & React
 - 🧠 Strong in **problem-solving & debugging**
@@ -76,7 +76,7 @@ Aspiring Java Full Stack Developer | Java • Spring • React • SQL
 ## 📈 GitHub Status
 
 <p align="center">
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=vikrantvaishnav&theme=nord&hide_border=false" alt="GitHub Streak Stats">
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=Rehansk-07&theme=nord&hide_border=false" alt="GitHub Streak Stats">
    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
   <img width="398"
        src="https://leetcard.jacoblin.cool/vaishnavvikrant167?theme=nord&font=JetBrains%20Mono&ext=contest"/>
